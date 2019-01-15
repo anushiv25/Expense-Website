@@ -1,0 +1,32 @@
+
+body{
+	color:white;
+	background:url(http://www.sparksbelting.com/uploads/blog/_blogFeatureImage/calculator-blog-main.jpg);
+	background-size:cover;
+
+}
+#content{
+text-align:center;
+padding-top:10%;
+}
+html{
+	height:100%;
+}
+hr{
+	width:400px;
+}
+h1{
+	font-weight: 700;
+	font-size:5em;
+}
+#footer{
+	text-align:center;
+	margin-top:150px;
+	font-weight:400;
+}
+.navbar-default{
+	background:black;
+}
+.yo{
+	color:white;
+}
