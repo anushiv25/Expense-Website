@@ -1,3 +1,46 @@
+body{
+	background:url(https://pixabay.com/get/e832b40729fd053ecd1f4404e54e479ee174ffd41cb5164994f4c07fa6/autumn-1758194.jpg);	
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	background-color:#cd5554;
+}
+
+.con{
+	background-color:black;
+	background-repeat: no-repeat;
+	background-position: center;
+	margin-left:35%;
+	margin-right:35%;
+	margin-top: 5%;
+	border: 1px solid black;
+	text-align:center;
+	height:auto;
+	width:30%;
+	border-radius: 5px;
+	color:white;
+	font-size:20px;
+}
+button{
+	margin:0px;
+	border:none;
+	background-color:grey;
+	color:black;
+}
+h1{
+	color:#ffffff;
+	margin-top: 1%;
+	font-family: "The Times Roman";
+	font-weight: 3000;
+}
+p{
+	margin-left:10px;
+	text-align:left;
+}
+p input{
+	margin-right: 10px;
+	float:right;
+}
 #content1{
 	margin-top:150px;
 	text-align:center;
@@ -6,8 +49,9 @@
 
 }
 #footer{
+	color:white;
 	text-align:center;
-	margin-top:250px;
+	margin-top:150px;
 }
 .navbar-default{
 	background:black;
