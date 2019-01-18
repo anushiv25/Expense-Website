@@ -25,4 +25,6 @@ urlpatterns = [
     path('contact/',contact),
     path('help/',Help),
     path('query/',query),
+    path('signin/',signin),
+    path('signup/',signup),
 ]
