@@ -14,3 +14,7 @@ def Help(request):
 
 def query(request):
 	return render(request,'query.html',{})
+def signin(request):
+	return render(request,'signin.html',{})
+def signup(request):
+	return render(request,'signup.html',{})
